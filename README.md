@@ -4,11 +4,31 @@ Where Curiosity Meets Clarity.
 Conceptly is a next-generation AI tutoring platform built natively on Streamlit. Armed with the high-speed Groq inference API (llama-3.1-8b-instant) and cutting-edge Microsoft Edge Neural TTS, Conceptly delivers lightning-fast, Socratic-style learning sessions designed to aggressively test and retain your knowledge rather than just feeding you answers.
 
 # 🚀 Key Features
-🎙️ Voice-Native Interface: High-fidelity Voice-to-Voice interactions. Speak directly into the browser, and listen back via Microsoft Azure's hyper-realistic Indian Regional neural voice models.
-🧠 Socratic AI Architecture: The AI is strictly handcuffed to the Socratic method. It refuses to give you direct answers, forcing you to critically evaluate your own blind-spots.
-📊 Adaptive MCQ Exams: Finish a learning module? Click a button to let the AI scrape your session and generate a tailored, auto-graded Multiple Choice Exam.
-🎯 Granular Targeting: Switch from standard instruction to highly specific academic pipelines like JEE and NEET.
-🗃️ Persistent Study Dashboards: A local JSON database seamlessly tracks all of your past study sessions, test grades, and AI contexts for infinite review.
+🎙️ Voice-Native Interface
+
+Experience high-fidelity voice-to-voice interactions directly in your browser. Speak naturally and receive responses powered by Microsoft Azure’s hyper-realistic Indian regional neural voice models.
+
+🧠 Socratic AI Architecture
+
+Built on the Socratic method, the AI does not provide direct answers. Instead, it guides you through questions—encouraging critical thinking and helping you uncover your own blind spots.
+
+📊 Adaptive MCQ Exams
+
+After completing a learning session, generate a personalized, auto-graded multiple-choice exam. The AI analyzes your session and creates tailored questions to reinforce your understanding.
+
+🎯 Granular Targeting
+
+Switch seamlessly between general learning and focused academic pipelines such as JEE and NEET, enabling structured and goal-oriented preparation.
+
+🗂️ Persistent Study Dashboards
+
+Track your progress effortlessly with a local JSON-based database that stores:
+
+Study sessions
+Test scores
+AI interaction history
+
+Review your learning journey anytime for continuous improvement.
 
 # Click the badge above to launch the live app!
 https://conceptly.streamlit.app/
