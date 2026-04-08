@@ -30,5 +30,5 @@ AI interaction history
 
 Review your learning journey anytime for continuous improvement.
 
-# Click the badge above to launch the live app!
+# Click the link below to launch the live app!
 https://conceptly.streamlit.app/
